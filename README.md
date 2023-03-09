@@ -1,6 +1,6 @@
 </br></br>
 <p align="center">
-<img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+<img src="https://em-content.zobj.net/thumbs/320/whatsapp/326/bird_1f426.png" width="50" height="50"/>
 </p>
 
  </br>
