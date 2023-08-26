@@ -13,7 +13,7 @@ I'm Arie. A Computer-Science student at the Hebrew Univeristy of Jerusalem, and 
 I like planning, designing and developing both Back-End and Front-End applications. I'm capable of developing web platforms from scratch to production, with full responsiveness and preformance.</samp>
 </br></br>
 <samp>
-Hands-on a wide range of technologies and platforms: JaveScript, Python, React, Redux, PostgreSQL, Node.js etc.
+Hands-on a wide range of technologies and platforms: Python, C, C++, JaveScript, React, Redux, Node.js, MongoDB etc.
 </samp>
 </p>
 <samp>
