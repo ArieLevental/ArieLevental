@@ -6,18 +6,19 @@
  </br>
 <p align="center">
 <samp>
-I'm Arie. A Computer-Science student at the Hebrew Univeristy of Jerusalem, and a Full Stack developer.
+Hi, I'm Arie. I'm a Computer Science student at the Hebrew University of Jerusalem and a software developer.
 </samp>
 </br></br>
 <samp>
-I like planning, designing and developing both Back-End and Front-End applications. I'm capable of developing web platforms from scratch to production, with full responsiveness and preformance.</samp>
+I enjoy planning, designing, and developing applications, algorithms, and programs.</samp>
 </br></br>
 <samp>
-Hands-on a wide range of technologies and platforms: Python, C, C++, JaveScript, React, Redux, Node.js, MongoDB etc.
+I have hands-on experience with a wide range of technologies and platforms, including Java, Python, C++, JavaScript, React, Node.js, MongoDB, and more.
 </samp>
 </p>
 <samp>
 <p align="center">
+ </br></br>
 <a href="mailto:yql3j2vku@mozmail.com">Email</a> | <a href="https://www.linkedin.com/in/arie-levental/">Linkedin</a> | <a href="https://arielevental.com/">Website</a>
 </p>
 
