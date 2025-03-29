@@ -12,9 +12,9 @@ Hi, I'm Arie. I'm a Computer Science student at the Hebrew University of Jerusal
 <samp>
 I enjoy planning, designing, and developing applications, algorithms, and programs.</samp>
 </br></br>
-<samp>
+<!-- <samp>
 I have hands-on experience with a wide range of technologies and platforms, including Java, Python, C++, JavaScript, React, Node.js, MongoDB, and more.
-</samp>
+</samp> -->
 </p>
 <samp>
 <p align="center">
