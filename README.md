@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://em-content.zobj.net/thumbs/320/whatsapp/326/bird_1f426.png" width="50" height="50"/>
+</p>
 
-<!--
-**ArieLevental/ArieLevental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>Hey, I'm Arie - a CS student at the Hebrew University and a software developer.</samp>  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>I like building cool stuff.</samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/arie-levental/">LinkedIn</a>  |  <a href="https://arielevental.com/">Website</a>
+</p>
