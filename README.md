@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <samp>Hey, I'm Arie - a CS student at the Hebrew University and a software developer.</samp>  
+  <samp>Hey, I'm Arie.</samp>  
 </p>
 
 <p align="center">
